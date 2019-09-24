@@ -1,0 +1,2 @@
+module myRepo1 {
+}
